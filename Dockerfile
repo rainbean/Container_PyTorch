@@ -1,4 +1,4 @@
-FROM rainbean/tensorflow:gpu
+FROM rainbean/tensorflow:1.4
 
 LABEL maintainer "Jimmy Lee"
 
