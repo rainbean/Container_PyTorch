@@ -1,4 +1,4 @@
-FROM rainbean/tensorflow:1.5
+FROM rainbean/tensorflow:latest
 
 LABEL maintainer "Jimmy Lee"
 
