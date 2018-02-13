@@ -4,10 +4,11 @@ PyTorch development container, backend TensorFlow.
 
 ### Feature
 
-- Scikit Image
-- TensorboardX
 - PyTorch 0.3.0, Cuda 9
 - Torchvision 0.2.0
+- TensorboardX
+- tqdm
+- Scikit Image
 
 ### Dependency
 
